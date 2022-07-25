@@ -14,6 +14,12 @@ sudo apt install nodejs
 sudo apt install npm
 ```
 
+3. Install docker
+
+```
+sudo apt-get install docker.io
+```
+
 ## Building App
 
 1. run the command *(without the squigly brackets)*; 
